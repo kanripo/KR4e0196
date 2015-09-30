@@ -1,0 +1,12 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 具茨集
+#+DATE: 2015-08-25 00:25:09.620771
+#+PROPERTY: ID KR4e0196
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 遺藁目録
+<pb:KR4e0196_WYG_014-1a>¶
+欽定四庫全書¶
+　具茨遺藁目録¶
+　　論¶
+　　表¶
+　　䇿¶
